@@ -1,0 +1,11 @@
+/src/parser/yacc.*
+/src/parser/y.output
+*~
+/build/
+/dist/
+/nbproject/private
+/nbproject/*
+!/nbproject/project.properties
+!/nbproject/project.xml
+/src/parser/Parser.java
+/src/parser/Yylex.java
