@@ -56,4 +56,4 @@ Int. J. Found. Comput. Sci., vol 22 (7), 2011,
 pp. 1499--1517. [DOI](http://dx.doi.org/10.1142/S0129054111008842).
 
 [2] Zeyi Shang, Sergey Verlan, Ion Petre, Gexiang Zhang, 
-*Reaction Systems and Synchronous Digital Circuits*, submitted.
+*Reaction Systems and Synchronous Digital Circuits*,  Molecules 2019, 24(10), 1961; [DOI](https://doi.org/10.3390/molecules24101961).
