@@ -23,7 +23,7 @@ A description of used algorithms is given in [2].
         -ga : generate the full state graph 
 ```
 
-##Enhancements to the file format
+## Enhancements to the file format
 
 There are additional directives in the input file format:
 
@@ -48,7 +48,7 @@ To comment out a directive use any character between `#` and `@`:
 #- @input a b c
 ```
 
-##References
+## References
 
 [1] Robert Brijder, Andrzej Ehrenfeucht, Michael G. Main, Grzegorz
 Rozenberg.  *A Tour of Reaction Systems*.
