@@ -9,7 +9,7 @@ corresponding Moore machine in GraphViz format can be generated.
 
 `RStoVerilog` is distributed under the terms of apache-2.0 license.
 
-[(See)](https://github.com/scolobb/brsim/) and [1] for more details on Reaction Systems.
+[See this page](https://github.com/scolobb/brsim/) and [1] for more details on Reaction Systems.
 
 A description of used algorithms is given in [2].
 
